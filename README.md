@@ -4,9 +4,9 @@
 
 
 
-![SalonA](https://github.com/SabaAsgarian/testSaba/assets/166124662/a296d7f2-f701-4e90-a29f-02919984965e)
+![sass](https://github.com/SabaAsgarian/Scss-simple-project/assets/166124662/db51b956-14d0-4cbe-bef4-fbb4a5b78579)
 
-![salonb](https://github.com/SabaAsgarian/testSaba/assets/166124662/bff29458-5205-4d2f-a84b-f5cc47fb2ebd)
+
 
 - [Demo Project]( https://sabaasgarian.github.io/Scss-simple-project/)
 
